@@ -6,7 +6,6 @@ namespace Meet.IdentityServer.Server
 {
     public static class Config
     {
-        //客户端注册，客户端能够访问的资源（通过：AllowedScopes）
         public static IEnumerable<Client> GetClient()
         {
             return new List<Client>
