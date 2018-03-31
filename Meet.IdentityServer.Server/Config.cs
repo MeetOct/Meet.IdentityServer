@@ -15,38 +15,30 @@ namespace Meet.IdentityServer.Server
                     ClientId="client",
                     AllowedGrantTypes=GrantTypes.ClientCredentials,
                     ClientSecrets={new Secret("secret".Sha256())},
-                    AllowedScopes={ "api.policy", "api.policy1" },
+                    AllowedScopes={ "api.policy", "api.policy1"},  //get first matched apiresource for scope ps:所以不要在不同的api中使用相同的scope？->scope约定唯一
+                    ClientClaimsPrefix=string.Empty,
                     Claims=new List<Claim>() //set claims for client
                     {
-                        new Claim("claim","claim")
+                        new Claim("claim","claim"),
+                        new Claim("claim1","claim")
                     }
-                },
-                new Client
-                {
-                    ClientId="client1",
-                    AllowedGrantTypes=GrantTypes.ClientCredentials,
-                    ClientSecrets={new Secret("secret".Sha256())},
-                    AllowedScopes={ "api.policy1" }
                 }
             };
         }
 
-        //scopes定义
         public static IEnumerable<ApiResource> GetApiResource()
         {
             return new List<ApiResource>
             {
                 new ApiResource("api","api")
                 {
+                    UserClaims =new List<string>(){"claim" }, //get claims for scope
                     Scopes=new List<Scope>()
                     {
                         new Scope("api.policy","Full access to API policy")
                         {
-                            UserClaims=new List<string>(){ "claim", "claim1" } //get claims for scope
-                        },
-                        new Scope("api.policy1","Full access to API policy1")
-                        {
-                            UserClaims=new List<string>(){ "claim1" }
+                            //The claims specified here will be added to the list of claims specified for the API.  how can this work?
+                            //UserClaims =new List<string>(){"claim" }, //get claims for scope
                         },
                     }
                 },
@@ -54,16 +46,12 @@ namespace Meet.IdentityServer.Server
                 {
                     Scopes=new List<Scope>()
                     {
-                        new Scope("api.policy","Full access to API policy")
+                        new Scope("api1.policy","Full access to API policy")
                         {
-                            UserClaims=new List<string>(){ "claim", "claim1" } //get claims for scope
-                        },
-                        new Scope("api.policy1","Full access to API policy1")
-                        {
-                            UserClaims=new List<string>(){ "claim1" }
-                        },
+                            UserClaims =new List<string>(){"claim1" }, //get claims for scope
+                        }
                     }
-                }
+                },
             };
         }
     }
