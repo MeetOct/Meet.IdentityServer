@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f6eb24d-ceef-4633-bae2-603ccf3cecf8" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Meet.IdentityServer/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Meet.IdentityServer/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Meet.IdentityServer/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Meet.IdentityServer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Meet.IdentityServer/riderModule.iml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Meet.IdentityServer" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Meet.IdentityServer.Server/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+              <folding>
+                <marker date="1522511166560" expanded="false" signature="6:289" ph="..." />
+                <marker date="1522511166560" expanded="true" signature="327:1445" ph="{...}" />
+                <marker date="1522511166560" expanded="true" signature="354:1443" ph="{...}" />
+                <marker date="1522511166560" expanded="true" signature="369:584" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
+                <marker date="1522511166560" expanded="true" signature="651:1008" ph="{...}" />
+                <marker date="1522511166560" expanded="true" signature="1226:1437" ph="{...}" />
+                <marker date="1522511166560" expanded="true" signature="1313:1390" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Meet.IdentityServer.Server/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+              <folding>
+                <marker date="1522511166545" expanded="false" signature="6:255" ph="..." />
+                <marker date="1522511166545" expanded="true" signature="293:614" ph="{...}" />
+                <marker date="1522511166545" expanded="true" signature="320:612" ph="{...}" />
+                <marker date="1522511166545" expanded="true" signature="373:431" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Meet.IdentityServer.Resources/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+              <folding>
+                <marker date="1522511166529" expanded="false" signature="6:284" ph="..." />
+                <marker date="1522511166529" expanded="true" signature="325:2126" ph="{...}" />
+                <marker date="1522511166529" expanded="true" signature="352:2124" ph="{...}" />
+                <marker date="1522511166529" expanded="true" signature="411:474" ph="{...}" />
+                <marker date="1522511166529" expanded="true" signature="697:1663" ph="{...}" />
+                <marker date="1522511166529" expanded="true" signature="865:1120" ph="{...}" />
+                <marker date="1522511166529" expanded="true" signature="1201:1614" ph="{...}" />
+                <marker date="1522511166529" expanded="true" signature="1278:1427" ph="{...}" />
+                <marker date="1522511166529" expanded="true" signature="1489:1594" ph="{...}" />
+                <marker date="1522511166529" expanded="true" signature="1881:2118" ph="{...}" />
+                <marker date="1522511166529" expanded="true" signature="1968:2045" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Meet.IdentityServer.Client/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="75" />
+              <folding>
+                <marker date="1522511166513" expanded="true" signature="6:122" ph="..." />
+                <marker date="1522511166513" expanded="true" signature="160:1784" ph="{...}" />
+                <marker date="1522511166513" expanded="true" signature="187:1782" ph="{...}" />
+                <marker date="1522511166513" expanded="true" signature="328:1776" ph="{...}" />
+                <marker date="1522511166513" expanded="true" signature="668:783" ph="{...}" />
+                <marker date="1522511166513" expanded="true" signature="1098:1178" ph="{...}" />
+                <marker date="1522511166513" expanded="true" signature="1195:1351" ph="{...}" />
+                <marker date="1522511166513" expanded="true" signature="1480:1561" ph="{...}" />
+                <marker date="1522511166513" expanded="true" signature="1578:1735" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TokenClientExtensions.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48EA5152-A1F4-4751-9CA9-76DE0F75CBD5/5a/fa5c5521/TokenClientExtensions.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="32" column="55" lean-forward="true" selection-start-line="32" selection-start-column="55" selection-end-line="32" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HttpClientExtensions.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48EA5152-A1F4-4751-9CA9-76DE0F75CBD5/0e/9fffd989/HttpClientExtensions.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="118">
+              <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HttpRequestHeaders.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/10424CAA-548A-4FDA-BAE0-2F9A2409CBF0/34/357def10/HttpRequestHeaders.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="66" column="15" selection-start-line="66" selection-start-column="15" selection-end-line="66" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AuthenticationHeaderValue.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/10424CAA-548A-4FDA-BAE0-2F9A2409CBF0/c5/3f9a075a/AuthenticationHeaderValue.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appsettings.Development.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Meet.IdentityServer.Resources/appsettings.Development.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Meet.IdentityServer.Resources/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1522511166529" expanded="true" signature="6:255" ph="..." />
+                <marker date="1522511166529" expanded="true" signature="296:617" ph="{...}" />
+                <marker date="1522511166529" expanded="true" signature="323:615" ph="{...}" />
+                <marker date="1522511166529" expanded="true" signature="376:434" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>grant_type</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/10424CAA-548A-4FDA-BAE0-2F9A2409CBF0/34/357def10/HttpRequestHeaders.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C78A7D9B-66E3-4070-9A92-5E649D7AD20C/dc/02f9c4d2/WebHost.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/48AC8BA2-0EA2-4039-BE61-C44BAD0749EC/9C/IdentityResource.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Meet.IdentityServer.Client/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Meet.IdentityServer.Server/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/48AC8BA2-0EA2-4039-BE61-C44BAD0749EC/72/CachingResourceStore.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48EA5152-A1F4-4751-9CA9-76DE0F75CBD5/5a/fa5c5521/TokenClientExtensions.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Meet.IdentityServer.Server/Config.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Meet.IdentityServer.Server/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48EA5152-A1F4-4751-9CA9-76DE0F75CBD5/0e/9fffd989/HttpClientExtensions.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Meet.IdentityServer.Resources/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Meet.IdentityServer.Resources/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/10424CAA-548A-4FDA-BAE0-2F9A2409CBF0/c5/3f9a075a/AuthenticationHeaderValue.cs" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="364" />
+    <option name="width" value="1750" />
+    <option name="height" value="1100" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <autoscrollToSource SolutionExplorer="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Meet.IdentityServer (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Meet.IdentityServer (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Meet.IdentityServer.Client" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Meet.IdentityServer (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Meet.IdentityServer.Resources" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Meet.IdentityServer (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Meet.IdentityServer.Server" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Meet.IdentityServer (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Meet.IdentityServer.Server" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Properties" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RiderNuGetCacheManager.AutoClear.global-packages" value="2" />
+    <property name="RiderNuGetCacheManager.AutoClear.http-cache" value="2" />
+    <property name="RiderNuGetCacheManager.AutoClear.packages-cache" value="2" />
+    <property name="RiderNuGetCacheManager.AutoClear.temp" value="1" />
+    <property name="ToolWindowErrors In Solution.ShowToolbar" value="false" />
+    <property name="ToolWindowFavorites.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Meet.IdentityServer.Client/bin/Debug/netcoreapp2.0/Meet.IdentityServer.Client.dll" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Meet.IdentityServer.Server/bin/Debug/netcoreapp2.0/Meet.IdentityServer.Server.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Meet.IdentityServer.Server" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:59381" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Meet.IdentityServer.Server/Meet.IdentityServer.Server.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+      <browser url="http://localhost:5000" />
+    </configuration>
+    <configuration name="client" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Meet.IdentityServer.Client/bin/Debug/netcoreapp2.0/Meet.IdentityServer.Client.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Meet.IdentityServer.Client" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5001" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Meet.IdentityServer.Client/Meet.IdentityServer.Client.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="0" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+      <browser url="http://localhost:5000" />
+    </configuration>
+    <list>
+      <item itemvalue=".NET Project.Default" />
+      <item itemvalue=".NET Project.client" />
+    </list>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3291536" />
+      <window_info anchor="right" auto_hide="true" id="Errors In Solution" order="3" show_stripe_button="false" type="SLIDING" weight="0.2546858" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5005513" side_tool="true" weight="0.3291536" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" weight="0.3291536" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3291536" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2967607" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.3279743" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49913344" visible="true" weight="0.18464053" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.27545553" />
+      <window_info auto_hide="true" id="Favorites" order="2" show_stripe_button="false" sideWeight="0.50086653" side_tool="true" type="SLIDING" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49944875" weight="0.3291536" />
+      <window_info anchor="bottom" id="Xaml Preview" order="7" weight="0.3291536" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Meet.IdentityServer.Client/Program.cs</url>
+          <line>33</line>
+          <properties documentPath="$PROJECT_DIR$/Meet.IdentityServer.Client/Program.cs" initialLine="33">
+            <startOffsets>
+              <startOffset value="987" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="1055" />
+            </endOffsets>
+          </properties>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Meet.IdentityServer.Server/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <marker date="1522511166545" expanded="false" signature="6:255" ph="..." />
+            <marker date="1522511166545" expanded="true" signature="293:614" ph="{...}" />
+            <marker date="1522511166545" expanded="true" signature="320:612" ph="{...}" />
+            <marker date="1522511166545" expanded="true" signature="373:431" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Meet.IdentityServer.Server/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="21" column="64" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
+          <folding>
+            <marker date="1522511166560" expanded="false" signature="6:289" ph="..." />
+            <marker date="1522511166560" expanded="true" signature="327:1445" ph="{...}" />
+            <marker date="1522511166560" expanded="true" signature="354:1443" ph="{...}" />
+            <marker date="1522511166560" expanded="true" signature="369:584" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
+            <marker date="1522511166560" expanded="true" signature="651:1008" ph="{...}" />
+            <marker date="1522511166560" expanded="true" signature="1226:1437" ph="{...}" />
+            <marker date="1522511166560" expanded="true" signature="1313:1390" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/48AC8BA2-0EA2-4039-BE61-C44BAD0749EC/9C/IdentityResource.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Meet.IdentityServer.Server/Config.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="28" column="47" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
+          <folding>
+            <marker date="1522511166545" expanded="false" signature="6:93" ph="..." />
+            <marker date="1522511166545" expanded="true" signature="131:2137" ph="{...}" />
+            <marker date="1522511166545" expanded="true" signature="164:2135" ph="{...}" />
+            <marker date="1522511166545" expanded="true" signature="224:963" ph="{...}" />
+            <marker date="1522511166545" expanded="true" signature="283:952" ph="{...}" />
+            <marker date="1522511166545" expanded="true" signature="328:938" ph="{...}" />
+            <marker date="1522511166545" expanded="true" signature="793:920" ph="{...}" />
+            <marker date="1522511166545" expanded="true" signature="1028:2129" ph="{...}" />
+            <marker date="1522511166545" expanded="true" signature="1092:2118" ph="{...}" />
+            <marker date="1522511166545" expanded="true" signature="1155:1707" ph="{...}" />
+            <marker date="1522511166545" expanded="true" signature="1307:1689" ph="{...}" />
+            <marker date="1522511166545" expanded="true" signature="1409:1666" ph="{...}" />
+            <marker date="1522511166545" expanded="true" signature="1439:1640" ph="/* The claims specified here will be added to the list of claims specified for the API.  how can this work? ... */" />
+            <marker date="1522511166545" expanded="true" signature="1772:2103" ph="{...}" />
+            <marker date="1522511166545" expanded="true" signature="1839:2085" ph="{...}" />
+            <marker date="1522511166545" expanded="true" signature="1942:2063" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/48AC8BA2-0EA2-4039-BE61-C44BAD0749EC/72/CachingResourceStore.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-870">
+          <caret line="26" column="63" selection-start-line="26" selection-start-column="63" selection-end-line="26" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C78A7D9B-66E3-4070-9A92-5E649D7AD20C/dc/02f9c4d2/WebHost.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="134" column="17" selection-start-line="134" selection-start-column="17" selection-end-line="134" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/48AC8BA2-0EA2-4039-BE61-C44BAD0749EC/9C/IdentityResource.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Meet.IdentityServer.Server/Properties/launchSettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" column="48" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Meet.IdentityServer.Server/Config.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="24" selection-end-column="17" />
+          <folding>
+            <marker date="1522511166545" expanded="false" signature="6:93" ph="..." />
+            <marker date="1522511166545" expanded="true" signature="131:2137" ph="{...}" />
+            <marker date="1522511166545" expanded="true" signature="164:2135" ph="{...}" />
+            <marker date="1522511166545" expanded="true" signature="224:963" ph="{...}" />
+            <marker date="1522511166545" expanded="true" signature="283:952" ph="{...}" />
+            <marker date="1522511166545" expanded="true" signature="328:938" ph="{...}" />
+            <marker date="1522511166545" expanded="true" signature="793:920" ph="{...}" />
+            <marker date="1522511166545" expanded="true" signature="1028:2129" ph="{...}" />
+            <marker date="1522511166545" expanded="true" signature="1092:2118" ph="{...}" />
+            <marker date="1522511166545" expanded="true" signature="1155:1707" ph="{...}" />
+            <marker date="1522511166545" expanded="true" signature="1307:1689" ph="{...}" />
+            <marker date="1522511166545" expanded="true" signature="1409:1666" ph="{...}" />
+            <marker date="1522511166545" expanded="true" signature="1439:1640" ph="/* The claims specified here will be added to the list of claims specified for the API.  how can this work? ... */" />
+            <marker date="1522511166545" expanded="true" signature="1772:2103" ph="{...}" />
+            <marker date="1522511166545" expanded="true" signature="1839:2085" ph="{...}" />
+            <marker date="1522511166545" expanded="true" signature="1942:2063" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Meet.IdentityServer.Resources/appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/10424CAA-548A-4FDA-BAE0-2F9A2409CBF0/c5/3f9a075a/AuthenticationHeaderValue.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/10424CAA-548A-4FDA-BAE0-2F9A2409CBF0/34/357def10/HttpRequestHeaders.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="66" column="15" selection-start-line="66" selection-start-column="15" selection-end-line="66" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48EA5152-A1F4-4751-9CA9-76DE0F75CBD5/0e/9fffd989/HttpClientExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Meet.IdentityServer.Server/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding>
+            <marker date="1522511166545" expanded="false" signature="6:255" ph="..." />
+            <marker date="1522511166545" expanded="true" signature="293:614" ph="{...}" />
+            <marker date="1522511166545" expanded="true" signature="320:612" ph="{...}" />
+            <marker date="1522511166545" expanded="true" signature="373:431" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Meet.IdentityServer.Server/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+          <folding>
+            <marker date="1522511166560" expanded="false" signature="6:289" ph="..." />
+            <marker date="1522511166560" expanded="true" signature="327:1445" ph="{...}" />
+            <marker date="1522511166560" expanded="true" signature="354:1443" ph="{...}" />
+            <marker date="1522511166560" expanded="true" signature="369:584" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
+            <marker date="1522511166560" expanded="true" signature="651:1008" ph="{...}" />
+            <marker date="1522511166560" expanded="true" signature="1226:1437" ph="{...}" />
+            <marker date="1522511166560" expanded="true" signature="1313:1390" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Meet.IdentityServer.Resources/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1522511166529" expanded="true" signature="6:255" ph="..." />
+            <marker date="1522511166529" expanded="true" signature="296:617" ph="{...}" />
+            <marker date="1522511166529" expanded="true" signature="323:615" ph="{...}" />
+            <marker date="1522511166529" expanded="true" signature="376:434" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Meet.IdentityServer.Resources/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+          <folding>
+            <marker date="1522511166529" expanded="false" signature="6:284" ph="..." />
+            <marker date="1522511166529" expanded="true" signature="325:2126" ph="{...}" />
+            <marker date="1522511166529" expanded="true" signature="352:2124" ph="{...}" />
+            <marker date="1522511166529" expanded="true" signature="411:474" ph="{...}" />
+            <marker date="1522511166529" expanded="true" signature="697:1663" ph="{...}" />
+            <marker date="1522511166529" expanded="true" signature="865:1120" ph="{...}" />
+            <marker date="1522511166529" expanded="true" signature="1201:1614" ph="{...}" />
+            <marker date="1522511166529" expanded="true" signature="1278:1427" ph="{...}" />
+            <marker date="1522511166529" expanded="true" signature="1489:1594" ph="{...}" />
+            <marker date="1522511166529" expanded="true" signature="1881:2118" ph="{...}" />
+            <marker date="1522511166529" expanded="true" signature="1968:2045" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Meet.IdentityServer.Client/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="75" />
+          <folding>
+            <marker date="1522511166513" expanded="true" signature="6:122" ph="..." />
+            <marker date="1522511166513" expanded="true" signature="160:1784" ph="{...}" />
+            <marker date="1522511166513" expanded="true" signature="187:1782" ph="{...}" />
+            <marker date="1522511166513" expanded="true" signature="328:1776" ph="{...}" />
+            <marker date="1522511166513" expanded="true" signature="668:783" ph="{...}" />
+            <marker date="1522511166513" expanded="true" signature="1098:1178" ph="{...}" />
+            <marker date="1522511166513" expanded="true" signature="1195:1351" ph="{...}" />
+            <marker date="1522511166513" expanded="true" signature="1480:1561" ph="{...}" />
+            <marker date="1522511166513" expanded="true" signature="1578:1735" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48EA5152-A1F4-4751-9CA9-76DE0F75CBD5/5a/fa5c5521/TokenClientExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="32" column="55" lean-forward="true" selection-start-line="32" selection-start-column="55" selection-end-line="32" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
